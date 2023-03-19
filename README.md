@@ -24,3 +24,11 @@ Previously, I completed my associate's degree in culinary arts, which taught me 
 Not long ago, I completed the Microsoft AZ-900 certificate, which gave me a solid foundation in cloud computing and the Azure ecosystem. Moreover, I'm graduating from Coding Temple in about a month, where I have gained hands-on experience in full-stack web development, including Flask, React, and PostgreSQL.
 
 In my spare time, I like to play disc golf, build and paint warhammer 40k minis, play video games, learn new technologies, see live music, among many other things.
+
+Languages:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-important?logo=javascript) ![Python](https://img.shields.io/badge/Python-important?logo=Python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-important?logo=PostgreSQL) 
+
+Frameworks: 
+
+![Flask](https://img.shields.io/badge/Flask-important?logo=Flask) ![React](https://img.shields.io/badge/React-important?logo=React) 
