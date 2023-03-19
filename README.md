@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner Image](https://github.com/britzky/Portfolio/blob/main/images/pokemon.PNG)
+![Banner Image]()
 ### Hi there 👋, I'm John!
 
 **About me:**
