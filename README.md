@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner Image](images/pokemon.PNG)
 ### Hi there 👋, I'm John!
 
 **About me:**
