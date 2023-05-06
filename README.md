@@ -1,33 +1,26 @@
-<!--
-**britzky/britzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm John</h1>
+<h3 align="center">A passionate software engineer from Massachusettes</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Britzkys Dungeon](https://gilded-squirrel-0bbe73.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, I'm John!
+- 🌱 I’m currently learning **TypeScript**
 
-**About me:**
+- 👨‍💻 All of my projects are available at [https://spontaneous-fairy-560405.netlify.app](https://spontaneous-fairy-560405.netlify.app)
 
-I'm a software engineer who is passionate about creating efficient, user-friendly, and scalable applications. I have a unique background in the restaurant industry, where I developed strong problem-solving, communication, and time-management skills. However, I decided to pivot my career and pursue my passion for technology.
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-Previously, I completed my associate's degree in culinary arts, which taught me the importance of attention to detail, precision, and creativity, skills that translate well to software engineering.
+- 📫 How to reach me **johnclapper89@gmail.com**
 
-Not long ago, I completed the Microsoft AZ-900 certificate, which gave me a solid foundation in cloud computing and the Azure ecosystem. Moreover, I'm graduating from Coding Temple in about a month, where I have gained hands-on experience in full-stack web development, including Flask, React, and PostgreSQL.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-In my spare time, I like to play disc golf, build and paint warhammer 40k minis, play video games, learn new technologies, see live music, among many other things.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Languages:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=britzky&show_icons=true&locale=en&layout=compact" alt="britzky" /></p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-important?logo=javascript) ![Python](https://img.shields.io/badge/Python-important?logo=Python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-important?logo=PostgreSQL) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=britzky&show_icons=true&locale=en" alt="britzky" /></p>
 
-Frameworks: 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=britzky&" alt="britzky" /></p>
 
-![Flask](https://img.shields.io/badge/Flask-important?logo=Flask) ![React](https://img.shields.io/badge/React-important?logo=React) 
