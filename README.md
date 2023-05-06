@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate software engineer from Massachusettes</h3>
+<h3 align="center">A passionate software engineer & front-end enthusiast</h3>
 
 - 🔭 I’m currently working on [Britzkys Dungeon](https://gilded-squirrel-0bbe73.netlify.app/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/john clapper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john clapper" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/john-clapper-476069192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-clapper-476069192" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/britzky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="britzky" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=britzky&show_icons=true&locale=en" alt="britzky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=britzky&" alt="britzky" /></p>
-
