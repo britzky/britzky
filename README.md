@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://spontaneous-fairy-560405.netlify.app](https://spontaneous-fairy-560405.netlify.app)
+- 👨‍💻 All of my projects are available at [John Clapper's Portfolio](https://spontaneous-fairy-560405.netlify.app)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
