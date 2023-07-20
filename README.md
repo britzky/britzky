@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A passionate software engineer & front-end enthusiast</h3>
 
-- 🔭 I’m currently working on [Britzkys Dungeon](https://gilded-squirrel-0bbe73.netlify.app/)
+- 🔭 I’m currently working on pokemon-champion
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [John Clapper's Portfolio](https://johnclapperportfolio.netlify.app)
 
