@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A passionate software engineer & front-end enthusiast</h3>
 
-- 🔭 I’m currently working on pokemon-champion
+- 🔭 I’m currently working on pokemon-react
 
 - 🌱 I’m currently learning **Next.js**
 
