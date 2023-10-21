@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">Full-Stack Engineer | Turning tea into scalable code"</h3>
+<h3 align="center">Full-Stack Engineer | Turning tea into scalable code</h3>
 
 - 🔭 I’m currently working on pokemon-react
 
