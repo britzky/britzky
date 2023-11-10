@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Full-Stack Engineer | Turning tea into scalable code</h3>
 
-- 🔭 I’m currently working on pokemon-react
+- 🔭 I’m currently working on FriendsFeed
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [John Clapper's Portfolio](https://johnclapperportfolio.netlify.app)
 
