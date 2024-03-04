@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [John Clapper's Portfolio](https://johnclapperportfolio.netlify.app)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Java, Python, FastAPI, Flask**
 
 - 📫 How to reach me **johnclapper89@gmail.com**
 
